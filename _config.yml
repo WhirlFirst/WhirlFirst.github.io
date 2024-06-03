@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Minsheng Hao"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate in bioinformatics"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
-  URI              : "whirlhao.tech"# URL
+  URI              : "https://www.whirlhao.tech"# URL
   email            : "hms20[at]mails.tsinghua.edu.cn" 
 
   # Academic websites
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/WhirlFirst"
+  github           : "WhirlFirst"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
