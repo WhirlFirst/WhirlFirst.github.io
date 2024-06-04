@@ -18,18 +18,20 @@ News
 
 Publications
 ======
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=UA6g8C8AAAAJ)
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=UA6g8C8AAAAJ).
 
 **Selected Papers**
 
 - **Minsheng Hao**, Erpai Luo, Yixin Chen, Yanhong Wu, Chen Li, Sijie Chen, Haoxiang Gao, et al. 2024. [“STEM Enables Mapping of Single-Cell and Spatial Transcriptomics Data with Transfer Learning.”](https://www.nature.com/articles/s42003-023-05640-1) Communications Biology 7 (1): 56.
 
-- **Minsheng Hao#**, Jing Gong, Xin Zeng, Chiming Liu, Yucheng Guo, Xingyi Cheng, Taifeng Wang, Jianzhu Ma, Le Song, and Xuegong Zhang. 2023. [“Large Scale Foundation Model on Single-Cell Transcriptomics.”](https://doi.org/10.1101/2023.05.29.542705) bioRxiv, 2023–05.
+- **Minsheng Hao**, Jing Gong, Xin Zeng, Chiming Liu, Yucheng Guo, Xingyi Cheng, Taifeng Wang, Jianzhu Ma, Le Song, and Xuegong Zhang. 2023. [“Large Scale Foundation Model on Single-Cell Transcriptomics.”](https://doi.org/10.1101/2023.05.29.542705) bioRxiv, 2023–05.
 
 - **Minsheng Hao**, Kui Hua, and Xuegong Zhang. 2021. [“SOMDE: A Scalable Method for Identifying Spatially Variable Genes with Self-Organizing Map.”](https://doi.org/10.1093/bioinformatics/btab471) Bioinformatics 37 (23): 4392–98.
 
 - Erpai Luo#, **Minsheng Hao#**, Lei Wei, and Xuegong Zhang. 2024. [“scDiffusion: Conditional Generation of High-Quality Single-Cell Data Using Diffusion Model.”](https://arxiv.org/abs/2401.03968) arXiv Preprint arXiv:2401.03968.
 
-- Jing Gong#, **Minsheng Hao#**, Xingyi Cheng, Xin Zeng, Chiming Liu, Jianzhu Ma, Xuegong Zhang, Taifeng Wang, and Le Song. 2024. [“Xtrimogene: An Efficient and Scalable Representation Learner for Single-Cell Rna-Seq Data.”](https://openreview.net/forum?id=gdwcoBCMVi) Advances in Neural Information Processing Systems 36.
+- Jing Gong#, **Minsheng Hao#**, Xingyi Cheng, Xin Zeng, Chiming Liu, Jianzhu Ma, Xuegong Zhang, Taifeng Wang, and Le Song. 2024. [“xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell Rna-Seq Data.”](https://openreview.net/forum?id=gdwcoBCMVi) Advances in Neural Information Processing Systems 36.
 
 - Sijie Chen, Yanting Luo, Haoxiang Gao, Fanhong Li, Yixin Chen, Jiaqi Li, Renke You, **Minsheng Hao** et al. 2022. [“hECA: The Cell-Centric Assembly of a Cell Atlas.”](https://www.sciencedirect.com/science/article/pii/S2589004222005892) Iscience 25 (5).
+
+*Last updated: 2024.06*
