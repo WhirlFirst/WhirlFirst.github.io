@@ -22,7 +22,7 @@ News
 
 Publications
 ======
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=UA6g8C8AAAAJ).
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=UA6g8C8AAAAJ&hl=en).
 
 **Selected Papers**
 
