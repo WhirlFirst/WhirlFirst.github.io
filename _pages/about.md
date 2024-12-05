@@ -14,10 +14,11 @@ My research interests are developing advanced AI models on omics data analysis, 
 
 News
 ======
+<span style="color:balck;">[2024-11]</span> I was awarded the National Scholarship at Tsinghua University.
 
-<span style="color:balck;">[2024-08]</span> Our work scDiffusion is published in [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btae518). It is not only a simulation paper but also towards infer the new discrete and continuous cell states.
+<span style="color:balck;">[2024-08]</span> Our work scDiffusion is published in [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btae518). It is not only a simulation paper but also a step towards inferring the new discrete and continuous cell states.
 
-<span style="color:red;">[2024-07]</span> I am thrilled to announce my role as an international student intern at Aviv Regev Lab, Genentech R&D (gRED), located in South San Francisco. Under the supervision of Dr. Yongju Lee, I am eager to dive into exciting projects! *P.S. I might be the only intern joining from outside the U.S. these years.*
+<span style="color:red;">[2024-07]</span> I am thrilled to announce my role as an international student intern at Aviv Regev Lab, Genentech R&D (gRED), located in South San Francisco. Under the supervision of Dr. Yongju Lee, I am eager to dive into exciting projects! *P.S. I might be the only intern joining from China these years.*
 
 <span style="color:balck;">[2024-06]</span> Our article "Large Scale Foundation Model on Single-Cell Transcriptomics" has now been published in [***Nature Methods***](https://www.nature.com/articles/s41592-024-02305-7)! Many thanks to Prof. Xuegong Zhang, Prof. Le Song, Prof. Jianzhu Ma and colleagues at Tsinghua and BioMap! 
 
@@ -41,4 +42,4 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 - Sijie Chen, Yanting Luo, Haoxiang Gao, Fanhong Li, Yixin Chen, Jiaqi Li, Renke You, **Minsheng Hao** et al. 2022. [“hECA: The Cell-Centric Assembly of a Cell Atlas.”](https://www.sciencedirect.com/science/article/pii/S2589004222005892) Iscience 25 (5).
 
-*Last updated: 2024.07*
+*Last updated: 2024.12*
