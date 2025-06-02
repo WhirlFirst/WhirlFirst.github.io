@@ -14,6 +14,8 @@ My research interests are developing advanced AI models on omics data analysis, 
 
 News
 ======
+<span style="color:balck;">[2025-06]</span> 📃Introducing PerTurboAgent — an LLM-powered AI agent for Iterative Perturb-Seq design! 🔗 Link to full paper: https://lnkd.in/geTy9Feq. It's one of my internship projects at Genentech. Many thanks to Yongju, Hanchen, Gabriele, and Aviv!
+
 <span style="color:balck;">[2025-03]</span> 🏆scFoundation was named among [**China's Top 10 Bioinformatics Breakthroughs of 2024**](http://gpb.big.ac.cn/news/1022#:~:text=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E5%8F%82%E6%95%B0%E8%A7%84%E6%A8%A1%E8%B6%85%E4%BA%BF%E7%9A%84%E5%8D%95%E7%BB%86%E8%83%9E%E8%BD%AC%E5%BD%95%E7%BB%84%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8BscFoundation%E6%9E%81%E5%A4%A7%E6%8E%A8%E5%8A%A8%E4%BA%86AI%E9%A9%B1%E5%8A%A8%E7%9A%84%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E8%8C%83%E5%BC%8F%E8%BD%AC%E5%8F%98).
 
 <span style="color:balck;">[2024-11]</span> 🎉I was awarded the National Scholarship at Tsinghua University.
@@ -44,4 +46,4 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 - Sijie Chen, Yanting Luo, Haoxiang Gao, Fanhong Li, Yixin Chen, Jiaqi Li, Renke You, **Minsheng Hao** et al. 2022. [“hECA: The Cell-Centric Assembly of a Cell Atlas.”](https://www.sciencedirect.com/science/article/pii/S2589004222005892) Iscience 25 (5).
 
-*Last updated: 2025.03*
+*Last updated: {{ "now" | date: "%Y.%m" }}*
